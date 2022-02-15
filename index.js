@@ -26,8 +26,8 @@ client.on('interactionCreate', async interaction => {
     {
 		await interaction.reply('User info.');
 	}
-    else if( commandName == 'hello' || commandName == 'Hello'){
-        await interaction.reply(`Hello! ${interaction.user.tag}`);
+    else if( commandName == 'hello'){
+        await interaction.reply(`Hello! ${interaction.user} How you doing today?`);
     }
 });
 // Login to Discord with your client's token
