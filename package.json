@@ -1,0 +1,19 @@
+{
+  "name": "vikash-community-bot",
+  "version": "1.0.0",
+  "description": "Vikash's Community Bot is a discord utility bot for Vikash's Community server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VikashPR/Vikash-Community-Bot.git"
+  },
+  "author": "Vikash PR",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VikashPR/Vikash-Community-Bot/issues"
+  },
+  "homepage": "https://github.com/VikashPR/Vikash-Community-Bot#readme"
+}
