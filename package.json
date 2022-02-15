@@ -8,12 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/VikashPR/Guide-Bot.git"
+    "url": "git+https://github.com/VikashPR/Vikash-bot.git"
   },
   "author": "Vikash PR",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/VikashPR/Guide-Bot/issues"
+    "url": "https://github.com/VikashPR/Vikash-bot/issues"
   },
-  "homepage": "https://github.com/VikashPR/Guide-Bot#readme"
+  "homepage": "https://github.com/VikashPR/Vikash-bot#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  }
 }
