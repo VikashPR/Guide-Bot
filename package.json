@@ -1,0 +1,19 @@
+{
+  "name": "vikash-bot",
+  "version": "1.0.0",
+  "description": "Vikash's Bot is a utlity bot made for vikash's community server ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VikashPR/Guide-Bot.git"
+  },
+  "author": "Vikash PR",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VikashPR/Guide-Bot/issues"
+  },
+  "homepage": "https://github.com/VikashPR/Guide-Bot#readme"
+}
